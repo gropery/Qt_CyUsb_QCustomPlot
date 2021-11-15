@@ -1,0 +1,13 @@
+
+State Machine - |hsc|usb_controller:u3_usb_controller|state
+Name state.FPGA2PC_2 state.FPGA2PC_1 state.FPGA2PC_0 state.PC2FPGA_5 state.PC2FPGA_4 state.PC2FPGA_3 state.PC2FPGA_2 state.PC2FPGA_1 state.PC2FPGA_0 state.00000000 
+state.00000000 0 0 0 0 0 0 0 0 0 0 
+state.PC2FPGA_0 0 0 0 0 0 0 0 0 1 1 
+state.PC2FPGA_1 0 0 0 0 0 0 0 1 0 1 
+state.PC2FPGA_2 0 0 0 0 0 0 1 0 0 1 
+state.PC2FPGA_3 0 0 0 0 0 1 0 0 0 1 
+state.PC2FPGA_4 0 0 0 0 1 0 0 0 0 1 
+state.PC2FPGA_5 0 0 0 1 0 0 0 0 0 1 
+state.FPGA2PC_0 0 0 1 0 0 0 0 0 0 1 
+state.FPGA2PC_1 0 1 0 0 0 0 0 0 0 1 
+state.FPGA2PC_2 1 0 0 0 0 0 0 0 0 1 

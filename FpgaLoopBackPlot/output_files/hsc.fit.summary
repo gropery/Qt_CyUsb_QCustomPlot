@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Nov 12 14:48:47 2021
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : hsc
+Top-level Entity Name : hsc
+Family : Cyclone IV E
+Device : EP4CE22F17C8
+Timing Models : Final
+Total logic elements : 10,474 / 22,320 ( 47 % )
+    Total combinational functions : 3,415 / 22,320 ( 15 % )
+    Dedicated logic registers : 9,920 / 22,320 ( 44 % )
+Total registers : 9920
+Total pins : 47 / 154 ( 31 % )
+Total virtual pins : 0
+Total memory bits : 210,688 / 608,256 ( 35 % )
+Embedded Multiplier 9-bit elements : 0 / 132 ( 0 % )
+Total PLLs : 1 / 4 ( 25 % )
